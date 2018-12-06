@@ -1,0 +1,13 @@
+<section>
+  <h3>
+      Top 10 Palavras
+  </h3>
+</section>
+  <div *ngFor="let item of data; index as i" class="box">
+    <div class="title">
+      {{i + 1}}ª - {{item.word}}
+    </div>
+    <div class="value">
+      {{item.quantity}}
+    </div>
+  </div>

@@ -1,0 +1,37 @@
+h3 {
+    width: 100%;
+    text-align: center;
+}
+
+section {
+    width: 100%;
+}
+
+.box {
+    padding-left: 20px;
+    width: 30%;
+    margin-right: 1.5%;
+    margin-left: 1.5%;
+    height: 50px;
+    margin: 10px;
+    border: 1px solid rgba(0,0,0,0.3);
+    position:relative;
+    float:left;
+}
+
+.box:hover {
+    background-color: rgba(0,255,0,0.3)
+}
+
+.title {
+    font-size: 26px;
+    text-transform: uppercase;
+    font-style: bold;
+}
+
+.value {
+    
+    font-size: 18px;
+    text-transform: uppercase;
+    font-style: italic;
+}

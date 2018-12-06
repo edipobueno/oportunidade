@@ -1,0 +1,11 @@
+C:\Users\edge_\Documents\GitHub\oportunidade\src\console\bin\Debug\netcoreapp2.1\console.deps.json
+C:\Users\edge_\Documents\GitHub\oportunidade\src\console\bin\Debug\netcoreapp2.1\console.runtimeconfig.json
+C:\Users\edge_\Documents\GitHub\oportunidade\src\console\bin\Debug\netcoreapp2.1\console.runtimeconfig.dev.json
+C:\Users\edge_\Documents\GitHub\oportunidade\src\console\bin\Debug\netcoreapp2.1\console.dll
+C:\Users\edge_\Documents\GitHub\oportunidade\src\console\obj\Debug\netcoreapp2.1\console.csproj.CoreCompileInputs.cache
+C:\Users\edge_\Documents\GitHub\oportunidade\src\console\obj\Debug\netcoreapp2.1\console.AssemblyInfoInputs.cache
+C:\Users\edge_\Documents\GitHub\oportunidade\src\console\obj\Debug\netcoreapp2.1\console.AssemblyInfo.cs
+C:\Users\edge_\Documents\GitHub\oportunidade\src\console\bin\Debug\netcoreapp2.1\console.pdb
+C:\Users\edge_\Documents\GitHub\oportunidade\src\console\obj\Debug\netcoreapp2.1\console.csprojAssemblyReference.cache
+C:\Users\edge_\Documents\GitHub\oportunidade\src\console\obj\Debug\netcoreapp2.1\console.dll
+C:\Users\edge_\Documents\GitHub\oportunidade\src\console\obj\Debug\netcoreapp2.1\console.pdb
